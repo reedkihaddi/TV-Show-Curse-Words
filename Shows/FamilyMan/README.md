@@ -4,4 +4,4 @@ Total Curse Words: 204
 
 Most used curse word: Fuck
 
-![image] (TheFamilyMan.png)
+![image](TheFamilyMan.png)

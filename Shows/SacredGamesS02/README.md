@@ -2,4 +2,6 @@ Trivedi was mentioned 16 times while the correlation between IMDb rating and cur
 
 Total Curse Words: 259 
 
+Most used curse word: Motherfucker
+
 ![image](SacredGamesS02.png)

@@ -100,7 +100,7 @@ def graph():
     y_values = [13, 14, 21, 54, 24, 33, 14, 17]
     ax3.bar(x_values, y_values, alpha=0.2)
     ax3.set_yticks([])
-    # Most used word was Fuck.
+    # Most used word was Motherfucker.
     ax1.text(3.8, 40, 'मादरचोद', fontproperties=prop,fontsize=9)
     # Change limits of bar chart to make it fit better.
     ax3.set_ylim(0, 80)

@@ -63,7 +63,7 @@ print(len(trivedi))
 ls = list(zip(Counter(trivedi).keys(), Counter(trivedi).values()))
 print(count)
 # 260 curse words total.
-# Trivedi word used most times in 7th episode while the total being 26 times throughout the season.
+# Trivedi word used 16 times throughout the season.
 c = Counter(count_dict)
 print(c.most_common(10))
 corr, _ = pearsonr(count_time_, ratings)

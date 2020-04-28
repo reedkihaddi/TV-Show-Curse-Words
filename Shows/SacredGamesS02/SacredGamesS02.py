@@ -68,7 +68,7 @@ c = Counter(count_dict)
 print(c.most_common(10))
 corr, _ = pearsonr(count_time_, ratings)
 print('Pearsons correlation: %.3f' % corr)
-# Pearsons Correlation -0.381 between curse count and IMDb Rating.
+# Pearsons Correlation 0.189 between curse count and IMDb Rating.
 
 
 def graph():

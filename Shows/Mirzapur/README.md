@@ -3,3 +3,5 @@ Kaaleen used 52 times, most used in second episode. Correlation between IMDb rat
 Total Curse Words: 268
 
 Most used curse word: Motherfucker
+
+![image](Mirzapur.png)
